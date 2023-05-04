@@ -1,0 +1,1 @@
+CreateNewFile() funksiyasi Java-dagi File sinfining bir qismidir. Bu funksiya yangi bo'sh fayl yaratadi. Agar mavhum fayl yo'li mavjud bo'lmasa va yangi fayl yaratilayotgan bo'lsa, funktsiya true qiymatini qaytaradi. Agar fayl nomi allaqachon mavjud bo'lsa, "false" qiymatini qaytaradi.
